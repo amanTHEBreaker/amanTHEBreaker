@@ -1,6 +1,6 @@
 #  👋 Hi, I’m AMAN
 -    I’m interested in Breaking and making things
--    I’m currently learning Android Developement
+-    Currently learning Android Developement
 
 
 
